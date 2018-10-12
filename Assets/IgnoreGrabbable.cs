@@ -12,7 +12,7 @@ public class IgnoreGrabbable : MonoBehaviour {
         Collider localCollider = gameObject.GetComponent<Collider>();
         foreach (GameObject grabbable in grabbableList.Grabbables)
         {
-            foreach(Collider collider in grabbable.GetComponents<Collider>())
+            foreach(Collider collider in grabbable.GetComponentsInChildren<Collider>())
             {
                 Physics.IgnoreCollision(localCollider, collider);  
             }
@@ -20,12 +20,6 @@ public class IgnoreGrabbable : MonoBehaviour {
         foreach(Collider collider in handsColliders)
         {
             Physics.IgnoreCollision(localCollider, collider);
-        }
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
+        }		
 	}
 }
