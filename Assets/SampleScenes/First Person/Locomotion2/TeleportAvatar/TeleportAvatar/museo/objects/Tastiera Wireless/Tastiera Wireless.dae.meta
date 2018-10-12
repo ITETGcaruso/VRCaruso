@@ -1,0 +1,375 @@
+fileFormatVersion: 2
+guid: 9dc6c84a8c015e44ea6646b17da26c1c
+timeCreated: 1521055101
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ID105
+    100002: ID113
+    100004: ID119
+    100006: ID13
+    100008: ID132
+    100010: ID138
+    100012: ID144
+    100014: ID150
+    100016: ID156
+    100018: ID169
+    100020: ID184
+    100022: ID190
+    100024: ID196
+    100026: ID202
+    100028: ID208
+    100030: ID21
+    100032: ID221
+    100034: ID227
+    100036: ID235
+    100038: ID241
+    100040: ID247
+    100042: ID253
+    100044: ID259
+    100046: ID267
+    100048: ID275
+    100050: ID281
+    100052: ID285
+    100054: ID289
+    100056: ID29
+    100058: ID293
+    100060: ID297
+    100062: ID301
+    100064: ID35
+    100066: ID43
+    100068: ID49
+    100070: ID57
+    100072: ID65
+    100074: ID73
+    100076: ID79
+    100078: ID85
+    100080: ID91
+    100082: ID99
+    100084: skp_camera_Last_Saved_SketchUp_View
+    100086: //RootNode
+    400000: ID105
+    400002: ID113
+    400004: ID119
+    400006: ID13
+    400008: ID132
+    400010: ID138
+    400012: ID144
+    400014: ID150
+    400016: ID156
+    400018: ID169
+    400020: ID184
+    400022: ID190
+    400024: ID196
+    400026: ID202
+    400028: ID208
+    400030: ID21
+    400032: ID221
+    400034: ID227
+    400036: ID235
+    400038: ID241
+    400040: ID247
+    400042: ID253
+    400044: ID259
+    400046: ID267
+    400048: ID275
+    400050: ID281
+    400052: ID285
+    400054: ID289
+    400056: ID29
+    400058: ID293
+    400060: ID297
+    400062: ID301
+    400064: ID35
+    400066: ID43
+    400068: ID49
+    400070: ID57
+    400072: ID65
+    400074: ID73
+    400076: ID79
+    400078: ID85
+    400080: ID91
+    400082: ID99
+    400084: skp_camera_Last_Saved_SketchUp_View
+    400086: //RootNode
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2100000: _0134_DimGray
+    2100002: material
+    2100004: _0133_Gray
+    2100006: material_0
+    2100008: Color_M06
+    2100010: _0137_Black
+    2100012: _0136_Charcoal
+    2100014: Color_M09
+    2100016: Color_M08
+    2100018: Color_M00
+    2100020: Translucent_Resin_Crush_Gray
+    2100022: __Translucent_Glass_Tinted_2
+    2100024: Color_M05
+    2100026: Translucent_Glass_Block_Dark
+    2100028: __Translucent_Glass_Tinted_1
+    2300000: ID105
+    2300002: ID113
+    2300004: ID119
+    2300006: ID13
+    2300008: ID132
+    2300010: ID138
+    2300012: ID144
+    2300014: ID150
+    2300016: ID156
+    2300018: ID169
+    2300020: ID184
+    2300022: ID190
+    2300024: ID196
+    2300026: ID202
+    2300028: ID208
+    2300030: ID21
+    2300032: ID221
+    2300034: ID227
+    2300036: ID235
+    2300038: ID241
+    2300040: ID247
+    2300042: ID253
+    2300044: ID259
+    2300046: ID267
+    2300048: ID29
+    2300050: ID35
+    2300052: ID43
+    2300054: ID49
+    2300056: ID57
+    2300058: ID65
+    2300060: ID73
+    2300062: ID79
+    2300064: ID85
+    2300066: ID91
+    2300068: ID99
+    2300070: //RootNode
+    3300000: ID105
+    3300002: ID113
+    3300004: ID119
+    3300006: ID13
+    3300008: ID132
+    3300010: ID138
+    3300012: ID144
+    3300014: ID150
+    3300016: ID156
+    3300018: ID169
+    3300020: ID184
+    3300022: ID190
+    3300024: ID196
+    3300026: ID202
+    3300028: ID208
+    3300030: ID21
+    3300032: ID221
+    3300034: ID227
+    3300036: ID235
+    3300038: ID241
+    3300040: ID247
+    3300042: ID253
+    3300044: ID259
+    3300046: ID267
+    3300048: ID29
+    3300050: ID35
+    3300052: ID43
+    3300054: ID49
+    3300056: ID57
+    3300058: ID65
+    3300060: ID73
+    3300062: ID79
+    3300064: ID85
+    3300066: ID91
+    3300068: ID99
+    3300070: //RootNode
+    4300000: SketchUp
+    4300002: ID13
+    4300004: ID21
+    4300006: ID29
+    4300008: ID35
+    4300010: ID43
+    4300012: ID49
+    4300014: ID57
+    4300016: ID65
+    4300018: ID73
+    4300020: ID79
+    4300022: ID85
+    4300024: ID91
+    4300026: ID99
+    4300028: ID105
+    4300030: ID113
+    4300032: ID119
+    4300034: ID132
+    4300036: ID138
+    4300038: ID144
+    4300040: ID150
+    4300042: ID156
+    4300044: ID169
+    4300046: ID184
+    4300048: ID190
+    4300050: ID196
+    4300052: ID202
+    4300054: ID208
+    4300056: ID221
+    4300058: ID227
+    4300060: ID235
+    4300062: ID241
+    4300064: ID247
+    4300066: ID253
+    4300068: ID259
+    4300070: ID267
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_M00
+    second: {fileID: 2100000, guid: 11cf3ccfc3c3a1c4e918eee371eb2ec1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_M05
+    second: {fileID: 2100000, guid: 8b1c9799d47b0994db406289aa9b36dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_M06
+    second: {fileID: 2100000, guid: 034df6e56de20e54ab7dd149e433357f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_M08
+    second: {fileID: 2100000, guid: 68c31bbb57d9dea4cbe33458cc621fbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_M09
+    second: {fileID: 2100000, guid: 5734f691c9a26264d9f64fc2e4939aa2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Translucent_Glass_Block_Dark
+    second: {fileID: 2100000, guid: c278dfc63f0f0eb41b607a3eea22dfc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Translucent_Resin_Crush_Gray
+    second: {fileID: 2100000, guid: ef2326da41eb1e243aa5d74b2fb50d01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _0133_Gray
+    second: {fileID: 2100000, guid: 9307c973d7224e041a7cb2758234381f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _0134_DimGray
+    second: {fileID: 2100000, guid: d227dfa426ef8a549a1f5493ad2ae332, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _0136_Charcoal
+    second: {fileID: 2100000, guid: 89c9983e600e83243b04e7fbaace8bdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _0137_Black
+    second: {fileID: 2100000, guid: a374a5dd9bfc2a347a23b480d0f60ecc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: __Translucent_Glass_Tinted_1
+    second: {fileID: 2100000, guid: af0dbcddd66ec90439bcb521aafd14e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: __Translucent_Glass_Tinted_2
+    second: {fileID: 2100000, guid: c7d60ccacd43fe24fadf6ed8372898ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material
+    second: {fileID: 2100000, guid: 97180d374feb87c45a248ba5b6d6e40f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_0
+    second: {fileID: 2100000, guid: fd5ef368d89ab5b4f970c4cfa4aefb25, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
