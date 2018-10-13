@@ -30,6 +30,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Events;
 using UnityEngine.EventSystems;
+using UnityEngine.SceneManagement;
 using System.Runtime.CompilerServices;
 
 using System.Runtime.InteropServices; // required for DllImpor
@@ -802,6 +803,8 @@ public class OVRInspector : MonoBehaviour
         }
         //Add a button to close the menu
         recenterButton = leftPanel.AddButton("Recenter", delegate { Recenter(); }, buttonPrefab);
+        leftPanel.AddButton("carica Museo", delegate { CaricaMuseo(); }, buttonPrefab);
+        leftPanel.AddButton("carica Parco", delegate { CaricaParco(); }, buttonPrefab);
         if (allowClose)
         {
             leftPanel.AddButton("Close", delegate { Hide(); }, buttonPrefab);
@@ -812,7 +815,15 @@ public class OVRInspector : MonoBehaviour
                 AddContextButton(details);
         }
     }
+    void CaricaMuseo()
+    {
+        SceneManager.LoadScene("Museo");
+    }
+    void CaricaParco()
+    {
 
+        SceneManager.LoadScene("Parco");
+    }
     /// <summary>
     /// Remove any menu contexts which belong to scene-specific contexts from a previous scene
     /// </summary>
