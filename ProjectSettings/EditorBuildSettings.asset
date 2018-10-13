@@ -5,10 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/SampleScenes/First Person/Locomotion2/TeleportAvatar/Parco.unity
     guid: 09f6e5cd59b1c6a4ebca50bdbf0ce9d2
-  - enabled: 0
+  - enabled: 1
     path: Assets/SampleScenes/First Person/Locomotion2/TeleportAvatar/museo.unity
     guid: 0e24d3c87abb49c46b46b1d41b844e30
   m_configObjects: {}
